@@ -1,3 +1,5 @@
+Changes made in accordance with the issue raised
+
 Changes made to the website
 
 updating readme on the branch created remotely
